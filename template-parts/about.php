@@ -55,21 +55,6 @@
 										<td class="break">:</td>
 										<td> No 114 S - HIG - A<br> 8th block Yamuna, 4th phase Yelahanka newtown<br> Bengalore, Karnataka 560064<br> India</td>
 									</tr>
-									<tr>
-										<td class="title">Skype</td>
-										<td class="break">:</td>
-										<td> bdgpixel</td>
-									</tr>
-									<tr>
-										<td class="title">Dribbble</td>
-										<td class="break">:</td>
-										<td> Muh-Reza</td>
-									</tr>
-									<tr>
-										<td class="title">Behance</td>
-										<td class="break">:</td>
-										<td> m-reza</td>
-									</tr>
 								</table>
 							</div>
 						</div>
