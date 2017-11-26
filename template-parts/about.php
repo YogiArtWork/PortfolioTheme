@@ -20,7 +20,7 @@
 							<h5 class="name">
 								Yogi
 							</h5>
-<!--							<img alt="signature" src="--><?php //echo get_template_directory_uri(); ?><!--/assets/images/signature.png">-->
+							<img alt="signature" src="<?php echo get_template_directory_uri(); ?>/assets/images/signature.png">
 						</div>
 					</div>
 				</div>
