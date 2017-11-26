@@ -11,16 +11,16 @@
 					<div class="wrap-about">
 						<div class="w-content">
 							<p class="head-about">
-								Design is the method of putting form and content together. Design, just
-								as art, has multiple definitions there is no single definition. Design
-								can be art. Design can be aesthetics. Design is so simple, that's why it
-								is so complicated.
+								Yogi is a Delhi based artist most popularly known as the Bollywood Scribbling Artist.
+								He is ambidextrous and draws lifelike images of popular film celebrities.
+								He has performed live at events and has appeared on reality shows.
+								He is also a master Commercial Artist and loves to travel all over India.
 							</p>
 
 							<h5 class="name">
-								M. Reza
+								Yogi
 							</h5>
-							<img alt="signature" src="<?php echo get_template_directory_uri(); ?>/assets/images/signature.png">
+<!--							<img alt="signature" src="--><?php //echo get_template_directory_uri(); ?><!--/assets/images/signature.png">-->
 						</div>
 					</div>
 				</div>
@@ -33,17 +33,17 @@
 									<tr>
 										<td class="title">Name</td>
 										<td class="break">:</td>
-										<td> M. Reza</td>
+										<td> Yogi</td>
 									</tr>
 									<tr>
 										<td class="title">Phone</td>
 										<td class="break">:</td>
-										<td> +62 8678 999 012</td>
+										<td> +91 9811882874</td>
 									</tr>
 									<tr>
 										<td class="title">Email</td>
 										<td class="break">:</td>
-										<td> bdgpixel@gmail.com</td>
+										<td> artistyogikumar@gmail.com</td>
 									</tr>
 									<tr>
 										<td class="title">Address</td>

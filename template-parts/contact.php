@@ -7,8 +7,7 @@
 					<span>Contact</span>
 				</h3>
 				<p class="content-detail">
-					Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-					euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+					If you have any query please feel free to contact.
 				</p>
 
 			</div>

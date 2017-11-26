@@ -3,10 +3,10 @@
 	<div class="footer-top">
 		<ul class="socials">
 			<li class="facebook">
-				<a href="#" data-hover="Facebook">Facebook</a>
+				<a href="https://www.facebook.com/yogikumar.in" data-hover="Facebook">Facebook</a>
 			</li>
 			<li class="twitter">
-				<a href="#" data-hover="Twitter">Twitter</a>
+				<a href="https://twitter.com/artistyogikumar" data-hover="Twitter">Twitter</a>
 			</li>
 			<li class="gplus">
 				<a href="#" data-hover="Google +">Google +</a>
