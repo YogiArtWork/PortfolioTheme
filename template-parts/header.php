@@ -10,13 +10,10 @@
 	<div class="menu-wrap">
 		<nav class="menu">
 			<div class="menu-list">
-				<a data-scroll="" href="#home" class="active">
-					<span>Home</span>
-				</a>
 				<a data-scroll="" href="#about">
 					<span>About</span>
 				</a>
-				<a data-scroll="" href="#contact">
+				<a data-scroll="" href="#contact-us">
 					<span>Contact</span>
 				</a>
 			</div>

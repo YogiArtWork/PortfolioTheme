@@ -1,5 +1,5 @@
 <!--CONTACT-->
-<section id="contact-caldera" class="white-bg">
+<section id="contact-us" class="white-bg">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3">
