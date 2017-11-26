@@ -46,9 +46,14 @@
 										<td> artistyogikumar@gmail.com</td>
 									</tr>
 									<tr>
-										<td class="title">Address</td>
+										<td class="title">Address 1</td>
 										<td class="break">:</td>
-										<td> Cipamokolan street 102 , Bandung, Indonesia</td>
+										<td> B1/010<br> Beverly Park 1, DLF Phase 2, Sector 25<br> Gurugram, Haryana 122101<br> India</td>
+									</tr>
+									<tr>
+										<td class="title">Address 2</td>
+										<td class="break">:</td>
+										<td> No 114 S - HIG - A<br> 8th block Yamuna, 4th phase Yelahanka newtown<br> Bengalore, Karnataka 560064<br> India</td>
 									</tr>
 									<tr>
 										<td class="title">Skype</td>
