@@ -946,6 +946,7 @@ ul.portfolio-image li .desc{
 .wrap-about .w-content td{
   font-size: 13px;
   font-weight: 300;
+  vertical-align: top;
 }
 .wrap-about .w-content td.title{
   padding-right: 10px;
@@ -954,6 +955,7 @@ ul.portfolio-image li .desc{
 .wrap-about .w-content td.break{
   padding-right: 15px;
 }
+
 .wrap-about .w-content tr{
   height: 35px;
 }
