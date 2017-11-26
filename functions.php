@@ -38,13 +38,13 @@ function _yaw_enqueue_scripts() {
 	wp_enqueue_script( 'jquery-appear', "{$template_dir_uri}assets/js/jquery.appear.js", array( 'jquery' ), false, true );
 	wp_enqueue_script( 'bootstrap-js', "{$template_dir_uri}assets/js/bootstrap.min.js", array( 'jquery' ), false, true );
 	wp_enqueue_script( 'classie-js', "{$template_dir_uri}assets/js/classie.js", array( 'jquery' ), false, true );
-	wp_enqueue_script( 'owl-carousal-js', "{$template_dir_uri}owl.carousel.min.js", array( 'jquery' ), false, true );
+	wp_enqueue_script( 'owl-carousal-js', "{$template_dir_uri}assets/js/owl.carousel.min.js", array( 'jquery' ), false, true );
 	wp_enqueue_script( 'magnific-popup-js', "{$template_dir_uri}assets/js/jquery.magnific-popup.min.js", array( 'jquery' ), false, true );
-	wp_enqueue_script( 'masonry-pkgd-js', "{$template_dir_uri}masonry.pkgd.min.js", array( 'jquery' ), false, true );
+	wp_enqueue_script( 'masonry-pkgd-js', "{$template_dir_uri}assets/js/masonry.pkgd.min.js", array( 'jquery' ), false, true );
 	wp_enqueue_script( 'masonry-js', "{$template_dir_uri}assets/js/masonry.js", array( 'jquery' ), false, true );
 	wp_enqueue_script( 'smooth-scroll-js', "{$template_dir_uri}assets/js/smooth-scroll.min.js", array( 'jquery' ), false, true );
 	wp_enqueue_script( 'typed-js', "{$template_dir_uri}assets/js/typed.js", array( 'jquery' ), false, true );
-	wp_enqueue_script( 'yaw-main-js', "{$template_dir_uri}assets/js/main.js", array( 'jquery' ), false, true );
+	wp_enqueue_script( 'yaw-main-js', "{$template_dir_uri}assets/js/main.js", array( 'owl-carousal-js', 'masonry-js' ), false, true );
 
 }
 
