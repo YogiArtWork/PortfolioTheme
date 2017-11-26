@@ -1,5 +1,5 @@
 <!--CONTACT-->
-<section id="contact" class="white-bg">
+<section id="contact-caldera" class="white-bg">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3">
@@ -12,18 +12,7 @@
 
 			</div>
 			<div class="col-md-9 content-right">
-				<form>
-					<div class="group">
-						<input required="" type="text"><span class="highlight"></span><span class="bar"></span><label>Name</label>
-					</div>
-					<div class="group">
-						<input required="" type="email"><span class="highlight"></span><span class="bar"></span><label>Email</label>
-					</div>
-					<div class="group">
-						<textarea required=""></textarea><span class="highlight"></span><span class="bar"></span><label>Message</label>
-					</div>
-					<input id="sendMessage" name="sendMessage" type="submit" value="Send Message">
-				</form>
+				<?php echo do_shortcode('[caldera_form id="CF5a1a3e043cb7d"]'); ?>
 			</div>
 		</div>
 	</div>
