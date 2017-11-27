@@ -17,7 +17,7 @@
 	<div class="footer-bottom">
 		<div class="container">
 			<div class="row">
-				<img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-bottom.png" alt="logo bottom" class="center-block"/>
+				<img src="<?php echo get_template_directory_uri(); ?>/assets/images/yogi/yogi_logo_3.png" alt="logo bottom" class="center-block"/>
 			</div>
 		</div>
 	</div>
