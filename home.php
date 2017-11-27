@@ -7,6 +7,7 @@
 	<!--CONTENT-->
 	<div class="content">
 		<?php get_template_part( 'template-parts/about' ); ?>
+		<?php get_template_part( 'template-parts/work' ); ?>
 		<?php get_template_part( 'template-parts/contact' ); ?>
 		<?php get_template_part( 'template-parts/social-media-footer' ); ?>
 		<!--/.CONTENT END-->
