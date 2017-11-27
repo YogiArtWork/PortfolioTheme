@@ -13,6 +13,9 @@
 				<a data-scroll="" href="#about">
 					<span>About</span>
 				</a>
+				<a data-scroll="" href="#work">
+					<span>Work</span>
+				</a>
 				<a data-scroll="" href="#contact-us">
 					<span>Contact</span>
 				</a>
