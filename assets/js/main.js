@@ -65,6 +65,11 @@
 		}
 
 		function initEvents() {
+			// Bailout: if menu does not exist.
+			if( ! toggleMenu.length ){
+				return;
+			}
+
 			openbtn.addEventListener('click', toggleMenu);
 			if (closebtn) {
 				closebtn.addEventListener('click', toggleMenu);
