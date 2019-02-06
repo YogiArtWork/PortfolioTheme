@@ -33,11 +33,6 @@
 										<td> Yogi</td>
 									</tr>
 									<tr>
-										<td class="title">Phone</td>
-										<td class="break">:</td>
-										<td> +91 9811882874</td>
-									</tr>
-									<tr>
 										<td class="title">Email</td>
 										<td class="break">:</td>
 										<td> artistyogikumar@gmail.com</td>
