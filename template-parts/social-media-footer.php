@@ -8,8 +8,8 @@
 			<li class="twitter">
 				<a href="https://twitter.com/artistyogikumar" data-hover="Twitter">Twitter</a>
 			</li>
-			<li class="gplus">
-				<a href="#" data-hover="Google +">Google +</a>
+			<li class="instagram">
+				<a href="https://www.instagram.com/artistyogikumar/" data-hover="Instagram">Instagram</a>
 			</li>
 		</ul>
 	</div>
