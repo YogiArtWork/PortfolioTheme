@@ -7,26 +7,5 @@
 		</div>
 		<!--/.LOGO END-->
 	</div>
-	<div class="menu-wrap">
-		<nav class="menu">
-			<div class="menu-list">
-				<a data-scroll="" href="#about">
-					<span>About</span>
-				</a>
-				<a data-scroll="" href="#work">
-					<span>Work</span>
-				</a>
-				<a data-scroll="" href="#contact-us">
-					<span>Contact</span>
-				</a>
-			</div>
-		</nav>
-		<button class="close-button" id="close-button">Close Menu</button>
-	</div>
-	<button class="menu-button" id="open-button">
-		<span></span>
-		<span></span>
-		<span></span>
-	</button><!--/.for-sticky-->
 </div>
 <!--/.HEADER END-->
