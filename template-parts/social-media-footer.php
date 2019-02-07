@@ -3,13 +3,13 @@
 	<div class="footer-top">
 		<ul class="socials">
 			<li class="facebook">
-				<a href="https://www.facebook.com/yogikumar.in" data-hover="Facebook">Facebook</a>
+				<a href="https://www.facebook.com/yogikumar.in" target="_blank" data-hover="Facebook">Facebook</a>
 			</li>
 			<li class="twitter">
-				<a href="https://twitter.com/artistyogikumar" data-hover="Twitter">Twitter</a>
+				<a href="https://twitter.com/artistyogikumar" target="_blank" data-hover="Twitter">Twitter</a>
 			</li>
 			<li class="instagram">
-				<a href="https://www.instagram.com/artistyogikumar/" data-hover="Instagram">Instagram</a>
+				<a href="https://www.instagram.com/artistyogikumar/" target="_blank" data-hover="Instagram">Instagram</a>
 			</li>
 		</ul>
 	</div>
